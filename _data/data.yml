@@ -1,6 +1,7 @@
 basic:
   name: Roman Burmistrov
   title: Data Scientist
+  place: Belgrade, Serbia
   avatar:
     display: false
     path: resume_rb.png
