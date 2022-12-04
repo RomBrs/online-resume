@@ -44,31 +44,27 @@ experiences:
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
       details: |
-        Participated in computer vision projects:
-        + Detecting vehicle damage,
-        + Monitoring of the condition of certain parts of the railway carriage.
+       + Led and successfully implemented a pilot project for monitoring the state of railway transport based on convolutional neural networks using Pytorch.
+       + Managed a group of interns, set tasks for training computer vision models and labeling data, and supervised the implementation.
+       + Developed a car damage detection model based on semantic segmentation and, in close cooperation with the client, prepared a strategy for implementing and improving the developed model.
+       + Researched the possibility of detecting shoplifting based on detection, tracking, and detection of key points.
 
     - role: Junior Data Scientist
       time: 2018.12 - 2021.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
       details: |
-        Participated in PoC project in manufacturing (predicting failures, determining the size of ore).
-        
-        Participated in computer vision projects:
-        + Determining the grade of plywood,
-        + Clothing categories recognition. 
-        
-        Conducted customer tailored demonstrations.  
+       + Developed clothing categories recognition system for a major retail brand.
+       + Trained computer vision models for proof of concept (PoC) projects in manufacturing to determine the size of ore and the grade of plywood.
+       + Conducted ML lectures and customer-tailored presentations.
 
     - role: Data Scientist Intern
       time: 2017.01 - 2018.12
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
       details: |
-        Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
-        
-        Conducted customer tailored demonstrations of machine learning applications.  
+       + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), and banking (predictive targeting).
+       + Conducted demonstrations of machine learning applications for end customers.
 
 # Counting free parking spaces,
 # Обзор функционала внутренних продуктов
@@ -118,11 +114,16 @@ education:
       time: 2017 - 2019
       major: Financial Technologies and Data Analysis // Machine Learning
       degree: Master's Degree
+      details: |
+        + Relevant Coursework: Machine Learning, Modern Methods of Data Analysis: Deep Learning, Big Data Analysis
+
 
     - university: <a href="https://www.hse.ru/en/ba/ami/"> Higher School of Economics</a> 
       time: 2013 - 2017
       major: Applied Mathematics and Informatics // Machine Learning
-      degree: Bachelor's Degree   
+      degree: Bachelor's Degree  
+      details: |
+        + Relevant Coursework: Data Analysis and Data Mining, Algorithms and Data Structures
 
 certificates:
   display: false
