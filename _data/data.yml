@@ -47,7 +47,7 @@ experiences:
       details: |
        + Led and successfully implemented a pilot project for monitoring the state of railway transport based on convolutional neural networks using Pytorch.
        + Managed a group of interns, set tasks for training computer vision models and labeling data, and supervised the implementation.
-       + Developed a car damage detection model based on semantic segmentation and, in close cooperation with the client, prepared a strategy for implementing and improving the developed model.
+       + Developed a car damage detection model based on semantic segmentation and, in close cooperation with the customer, prepared a strategy for implementing and improving the developed model.
        + Researched the possibility of detecting shoplifting based on detection, tracking, and keypoint detection.
 
     - role: Junior Data Scientist
