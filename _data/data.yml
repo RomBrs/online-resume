@@ -40,7 +40,7 @@ experiences:
   display: true
   title: Work Experience
   items:
-    - role: Data Scientist
+    - role: Sr. Data Scientist
       time: 2021.04 - 2022.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
@@ -50,7 +50,7 @@ experiences:
        + Developed a car damage detection model based on semantic segmentation and, in close cooperation with the customer, prepared a strategy for implementing and improving the developed model.
        + Researched the possibility of detecting shoplifting based on detection, tracking, and keypoint detection.
 
-    - role: Junior Data Scientist
+    - role: Data Scientist
       time: 2018.12 - 2021.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
@@ -59,7 +59,7 @@ experiences:
        + Trained computer vision models for proof of concept (PoC) projects in manufacturing to determine the size of ore and the grade of plywood.
        + Conducted machine learning (ML) lectures and customer-tailored presentations.
 
-    - role: Data Scientist Intern
+    - role: Junior Data Scientist
       time: 2017.01 - 2018.12
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
