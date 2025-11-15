@@ -103,7 +103,7 @@ skills:
   display: true
   title: Skills
   details: |
-    + Data Science: Prompt Engineering, A/B Testing, Machine Learning, Deep Learning, Mathematics, Statistics, PyTorch, CVAT, OpenCV, Databricks (SQL), Scikit-learn, Numpy, Pandas
+    + Data Science: Prompt Engineering, RAG, A/B Testing, Machine Learning, Deep Learning, Mathematics, Statistics, PyTorch, CVAT, OpenCV, Databricks (SQL), Scikit-learn, Numpy, Pandas
     + Backend: FastAPI, Docker, SQL, Alogitms & Data Structures, Multiprocessing, Linux, Git, MLFlow
     + Programming languages: Python, Base  SAS
 # GoogleCloud, Flask, Celery, Pika, RabbitMQ, Alogitms and DataStructures, TelegramBot, Neo4j,
