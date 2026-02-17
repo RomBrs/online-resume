@@ -45,8 +45,8 @@ experiences:
       company: <a href="https://www.sas.com/">Toloka</a>
       location: Belgrade, Serbia
       details: |
-       + Owned development of LLM-based pipelines for rubric generation, response evaluation, and a wide range of classification tasks including intent, domain, and formatting.
-       + Delivered production-ready ML systems, including prompt-based tools, image upscaling, content moderation, and product data enrichment used in real-world workflows.
+       + Developed and deployed production-grade AI agent systems for expert data labeling and automated quality control, including tooling, orchestration, and evaluation pipelines.
+       + Built and shipped LLM-powered and traditional ML systems for classification, content moderation, and image upscaling in production environments.
        + Designed and tested prompts, ran A/B tests, fine-tuned models, and developed scraping pipelines to support data collection and evaluation at scale.
        + Built and maintained infra for model deployment, data labeling, and evaluation, enabling rapid iteration on ML-assisted tools.
        
